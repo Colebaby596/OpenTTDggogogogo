@@ -20,24 +20,8 @@
 
 ## 1.0) About
 
-OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
-It attempts to mimic the original game as closely as possible while extending it with new features.
-
-OpenTTD is licensed under the GNU General Public License version 2.0, but includes some 3rd party software under different licenses.
-See the section ["Licensing"](#30-licensing) below for details.
-
-## 1.1) Downloading OpenTTD
-
-OpenTTD can be downloaded from the [official OpenTTD website](https://www.openttd.org/).
-
-Both 'stable' and 'nightly' versions are available for download:
-
-- most people should choose the 'stable' version, as this has been more extensively tested
-- the 'nightly' version includes the latest changes and features, but may sometimes be less reliable
-
-OpenTTD is also available for free on [Steam](https://store.steampowered.com/app/1536610/OpenTTD/), [GOG.com](https://www.gog.com/game/openttd), and the [Microsoft Store](https://www.microsoft.com/p/openttd-official/9ncjg5rvrr1c). On some platforms OpenTTD will be available via your OS package manager or a similar service.
-
-
+21112312312
+ifiaiaisa
 ## 1.2) OpenTTD gameplay manual
 
 OpenTTD has a [community-maintained wiki](https://wiki.openttd.org/), including a gameplay manual and tips.
